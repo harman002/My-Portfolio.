@@ -2,6 +2,7 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
+   "homepage": "https://harman002.github.io/My-Portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
     "framer-motion": "^12.23.12",
@@ -16,7 +18,7 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "tailwindcss": "^4.1.12",
-    "homepage": "https://harman002.github.io/My-Portfolio"
+   
 },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
